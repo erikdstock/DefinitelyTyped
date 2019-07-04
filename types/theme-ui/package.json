@@ -1,7 +1,10 @@
 {
+  "version": "0.2.0",
+  "name": "@types/theme-ui",
   "private": true,
   "dependencies": {
     "@emotion/core": "^10.0.14",
+    "@types/styled-system__css": "^5.0.0",
     "csstype": "^2.6.5"
   }
 }
